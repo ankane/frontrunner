@@ -200,6 +200,7 @@ npm run assets:precompile
 On Heroku, you’ll need to use multiple buildpacks.
 
 ```sh
+heroku buildpacks:clear
 heroku buildpacks:add heroku/nodejs
 heroku buildpacks:add heroku/ruby
 ```
