@@ -156,7 +156,15 @@ Run:
 npm install react react-dom -S
 ```
 
-[React Hot Loader](http://gaearon.github.io/react-hot-loader/) and support for `jsx` are already included. See [Hot Module Replacement](#hot-module-replacement) for how to activate.
+Support for `jsx` is already included.
+
+Add the [React Hot Loader](http://gaearon.github.io/react-hot-loader/) with:
+
+```sh
+npm install react-hot-loader -D
+```
+
+See [Hot Module Replacement](#hot-module-replacement) for how to activate.
 
 ## Entry Points
 
