@@ -2,6 +2,8 @@
 
 :fire: Webpack for Rails
 
+**Note: Rails now supports Webpack, so use that instead**
+
 Why Webpack?
 
 - Manage your JavaScript and CSS dependencies with [npm](https://www.npmjs.com/), the JavaScript package manager
